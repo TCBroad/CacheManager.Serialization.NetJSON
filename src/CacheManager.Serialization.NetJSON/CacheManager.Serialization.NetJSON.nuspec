@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>$title$</title>
+        <authors>Tom Broad</authors>
+        <owners>Tom Broad</owners>
+        <licenseUrl>https://github.com/TCBroad/CacheManager.Serialization.NetJSON/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/TCBroad/CacheManager.Serialization.NetJSON</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>CacheManager serializer for NetJSON.</description>
+        <releaseNotes>CacheManager.Serialization.NetJSON</releaseNotes>
+        <tags>CacheManager NetJSON</tags>
+    </metadata>
+</package>
